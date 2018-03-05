@@ -8,11 +8,10 @@ permalink: /:title/
 # Setup
 title:            fevargasmo
 tagline:          'Perfil fevargasmo'
-description:      'Estudiante Ingenieria de Sistemas - Universidad Nacional de Colombia'
+description:      'Estudiante Ingeniería de Sistemas y Computación- Universidad Nacional de Colombia'
 url:              https://fevargasmo.github.io/
 baseurl:          /
 
-avatar: https://avatars1.githubusercontent.com/u/23062978?s=460&v=4
 
 
 author:
