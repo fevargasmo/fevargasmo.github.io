@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink: /:title/
 
 # Setup
-title:            Fevargasmo
+title:            fevargasmo
 tagline:          'Perfil fevargasmo'
 description:      'Estudiante Ingenieria de Sistemas - Universidad Nacional de Colombia'
 url:              https://fevargasmo.github.io/
