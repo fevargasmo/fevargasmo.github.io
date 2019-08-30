@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink: /:title/
 
 # Setup
-title:            fevargasmo
+title:            Fernando Vargas
 tagline:          'Perfil fevargasmo'
-description:      'Estudiante Ingeniería de Sistemas y Computación- Universidad Nacional de Colombia'
+description:      'Estudiante Maestría en Ingeniería de Sistemas y Computación- Universidad Nacional de Colombia'
 url:              https://fevargasmo.github.io/
 baseurl:          /
 
